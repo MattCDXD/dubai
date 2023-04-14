@@ -1,0 +1,34 @@
+div {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#676767;
+}
+
+.imgdiv {
+    background-color: #C2B280;
+} 
+
+img {
+        margin: 10px;
+        width: 500px;
+        float: left;
+        border-radius: 25%;
+      
+}
+
+li {
+    float:inline-start;
+    list-style-type: none;
+    font-size: 24px;
+}
+
+h1 {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h2 {
+    margin-right: 50px;
+    margin-left: 50px;
+}
